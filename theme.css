@@ -1,0 +1,145 @@
+#app-mount .container-1D34oG,
+.app-2rEoOp,
+.bg-h5JY_x,
+.chat-3bRxxu,
+.content-1o0f9g,
+.contentRegionScroller-26nc1e,
+.layer-3QrUeG,
+.members-1998pB > div,
+.scroller-1JbKMe,
+.applicationStore-1pNvnv,
+.scroller-305q3I,
+.sidebar-2K8pFh,
+.standardSidebarView-3F1I7i,
+.wrapper-1F5TKx,
+.wrapper-3NnKdC,
+.wrapper-3vR61M,
+body {
+  background: 0 0;
+}
+
+:root {
+	--o-bg: url('https://i.imgur.com/2ItyWch.jpeg');
+	--channels-default: rgba(255, 255, 255, 0.9);
+	--channeltextarea-background: #ad4343;
+	--background-primary: #83525254;
+	--background-secondary: #a7494986;
+	--background-secondary-alt: #c8585854;
+	--background-accent: #c8585854;
+	--background-floating: #ad4343;
+	--background-tertiary: #c8585854;
+	--text-muted: rgba(255, 255, 255, 0.8);
+	--text-normal: white;
+	--interactive-normal: white;
+	--interactive-muted: rgba(255, 255, 255, 0.4);
+	--background-modifier-accent: rgba(255, 255, 255, 0.185);
+	--brand-experiment: #bb2a2a;
+	--scrollbar-thin-thumb: #c85858;
+	--scrollbar-thin-track: transparent;
+	--scrollbar-auto-thumb: #c85858;
+	--scrollbar-auto-track: #00000049;
+	--header-secondary: rgb(211, 211, 211);
+}
+
+#app-mount {
+	background-image: var(--o-bg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.app-1q1i1E {
+	background-color: #aa3a3a9b;
+}
+
+.peopleListItem-2nzedh {
+	border-radius: 2px;
+}
+
+/* Online Friends */
+.peopleList-3c4jOR > div {
+	background-color: #c8585854;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	border-radius: 3px;
+	width: 99%;
+	margin:auto;
+	border: solid rgba(255, 255, 255, 0.233) 1px;
+}
+
+.peopleList-3c4jOR > div:nth-child(2) {
+	display: none;
+}
+
+.nowPlayingColumn-2sl4cE {
+	background: transparent;
+}
+
+.container-lRFx4q {
+	background: transparent;
+}
+
+.typeWindows-1za-n7 {
+	background-color: #dd4343b6;
+	margin-top: 0;
+	padding-top: 0.3rem;
+}
+
+.container-1r6BKw.themed-ANHk51 {
+	background-color: #c85858d5;
+}
+
+.icon-22AiRD {
+	color: white;
+}
+
+.actionButton-uPB8Fs {
+	background-color: #d67676d5;
+}
+
+.icon-35-fSh {
+	color: white;
+}
+
+.children-19S4PO:after {
+	display: none;
+}
+
+.itemCard-v9viV7 {
+	background-color: #c85858d5;
+}
+
+.theme-dark .inset-3sAvek {
+	background-color: #b35252d5;
+}
+
+
+.outer-1AjyKL.active-1xchHY,
+.outer-1AjyKL.interactive-3B9GmY:hover {
+	background-color: #b35252d5 !important;
+}
+
+.sidebar-2K8pFh {
+	border-top-left-radius: 0 !important;
+}
+
+.theme-dark .root-1gCeng {
+	background-color: var(--background-floating);
+	border: solid rgba(255, 255, 255, 0.342) 1px;
+}
+
+.offline-3nJYBR {
+	opacity: 0.5;
+}
+
+.membersGroup-v9BXpm {
+	text-align: center;
+	padding-bottom: 21px;
+}
+
+.membersGroup-v9BXpm > span {
+	padding: 0.13rem 1rem;
+	background-color: #851f1f38;
+	border-bottom: solid #d36a6ad5 2px;
+	border-radius: 3px;
+}
