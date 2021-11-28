@@ -34,9 +34,9 @@ body {
 	--interactive-muted: rgba(255, 255, 255, 0.4);
 	--background-modifier-accent: rgba(255, 255, 255, 0.185);
 	--brand-experiment: #bb2a2a;
-	--scrollbar-thin-thumb: #c85858;
+	--scrollbar-thin-thumb: #e46464;
 	--scrollbar-thin-track: transparent;
-	--scrollbar-auto-thumb: #c85858;
+	--scrollbar-auto-thumb: #e46464;
 	--scrollbar-auto-track: #00000049;
 	--header-secondary: rgb(211, 211, 211);
 }
@@ -142,4 +142,9 @@ body {
 	background-color: #851f1f38;
 	border-bottom: solid #d36a6ad5 2px;
 	border-radius: 3px;
+}
+
+.container-enaOkj,
+.messagesPopoutWrap-1MQ1bW {
+	background-color: #b64e4e;
 }
